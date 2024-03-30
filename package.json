@@ -1,0 +1,26 @@
+{
+  "name": "tx22-uzmahmed-atm",
+  "version": "1.0.5",
+  "description": "",
+  "main": "main.js",
+  "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
+  "bin": {
+    "tx22-uzmahmed-atm": "main.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/jquery": "^3.5.29"
+  }
+}
